@@ -1,0 +1,15 @@
+
+
+h1 {
+    color: blue
+}
+
+h1:hover {
+    background-color: blueviolet;
+    color: white;
+}
+
+body {
+    background-color: violet;
+}
+
