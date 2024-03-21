@@ -4,11 +4,13 @@ h1 {
     color: blue
 }
 
+/* Below is a hover function that turns the text white and the background color to "blueviolet". */
 h1:hover {
     background-color: blueviolet;
     color: white;
 }
 
+/*The Background color is violet*/
 body {
     background-color: violet;
 }
